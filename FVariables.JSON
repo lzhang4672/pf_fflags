@@ -128,5 +128,9 @@
                 "ReviveShieldDuration" : 5
             }
         }
+    },
+    "VIPBenefits": {
+        "VIPStaminaScale" : 1.3,
+        "VIPHealthRegenScale" : 2
     }
 }
