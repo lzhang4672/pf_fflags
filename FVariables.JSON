@@ -130,7 +130,7 @@
         }
     },
     "VIPBenefits": {
-        "VIPStaminaScale" : 1.3,
-        "VIPHealthRegenScale" : 2
+        "VIPStaminaScale" : 1.2,
+        "VIPHealthRegenScale" : 1.5
     }
 }
