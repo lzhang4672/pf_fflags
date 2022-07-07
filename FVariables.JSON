@@ -1,8 +1,8 @@
 {
     "MapProperties" : {
         "Farm" : {
-            "maxMatchTime" : 4000,
-            "minMatchTime" : 900,
+            "maxMatchTime" : 400,
+            "minMatchTime" : 200,
             "minGenerators" : 1,
             "maxGenerators" : 3,
             "minExitGates" : 2,
