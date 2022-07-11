@@ -4,7 +4,7 @@
             "maxMatchTime" : 430,
             "minMatchTime" : 200,
             "minGenerators" : 1,
-            "maxGenerators" : 4,
+            "maxGenerators" : 3,
             "minExitGates" : 2,
             "maxExitGates" : 3,
             "extraGenerators" : 2,
@@ -16,9 +16,9 @@
             "maxRepairTime" : 24,
             "baseWalkSpeed" : 15,
             "baseSprintSpeed" : 24,
-            "minSprintTime" : 3.5,
+            "minSprintTime" : 3,
             "maxSprintTime" : 5,
-            "baseStaminaRechargeTime" : 34,
+            "baseStaminaRechargeTime" : 32,
             "passiveHealAmount" : 5,
             "passiveHealRate" : 10,
             "baseJumpPower" : 40,
@@ -28,7 +28,7 @@
             "generatorUIGameRate" : 7,
             "playerMatchProperties" : {
                 "ReviveTime" : 0.2,
-                "InjuredTime" : 22,
+                "InjuredTime" : 20,
                 "ReviveShieldDuration" : 5
             }
         },
