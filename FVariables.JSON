@@ -132,5 +132,8 @@
     "VIPBenefits": {
         "VIPStaminaScale" : 1.2,
         "VIPHealthRegenScale" : 1.5
+    },
+    "Gameplay": {
+        "InjuredDecreaseRate": 30
     }
 }
