@@ -1,3 +1,4 @@
 {
-    "DFFlags": true
+    "DFFlags": true,
+    "MergeFromDataStoreV2": true
 }
