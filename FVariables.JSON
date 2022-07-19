@@ -150,6 +150,7 @@
         "CoinRates": {
             "RepairGenerator": 20,
             "Revive": 5,
+            "GateOpened": 7,
             "Kill": 15,
             "Win": 75,
             "Injure": 5,
