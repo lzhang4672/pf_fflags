@@ -135,5 +135,23 @@
     },
     "Gameplay": {
         "InjuredDecreaseRate": 30
+    },
+    "PlayerProgression": {
+        "XPRates": {
+            "RepairGenerator": 400,
+            "Revive": 70,
+            "GateOpened": 300,
+            "HiderWin": 600,
+            "Downed": 50,
+            "Kill": 450,
+            "HunterWin": 900
+        },
+        "CoinRates": {
+            "RepairGenerator": 20,
+            "Revive": 5,
+            "Kill": 15,
+            "Win": 75,
+            "Injure": 5
+        }
     }
 }
