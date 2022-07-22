@@ -138,12 +138,12 @@
     },
     "PlayerProgression": {
         "XPRates": {
-            "RepairGenerator": 400,
+            "RepairGenerator": 350,
             "Revive": 30,
             "GateOpened": 300,
             "HiderWin": 600,
             "Injure": 30,
-            "Kill": 450,
+            "Kill": 400,
             "HunterWin": 900,
             "CoinPickUp": 2
         },
