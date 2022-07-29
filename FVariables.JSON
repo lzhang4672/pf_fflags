@@ -136,6 +136,9 @@
     "Gameplay": {
         "InjuredDecreaseRate": 30
     },
+    "Messaging": {
+        "LoadingMessage": "Join The Group and Discord to Support Future Games!"
+    },
     "PlayerProgression": {
         "XPRates": {
             "RepairGenerator": 350,
