@@ -1,7 +1,7 @@
 {
     "MapProperties" : {
         "Farm" : {
-            "maxMatchTime" : 430,
+            "maxMatchTime" : 310,
             "minMatchTime" : 200,
             "minGenerators" : 1,
             "maxGenerators" : 3,
@@ -33,7 +33,7 @@
             }
         },
         "Forest" : {
-            "maxMatchTime" : 410,
+            "maxMatchTime" : 310,
             "minMatchTime" : 200,
             "minGenerators" : 1,
             "maxGenerators" : 3,
@@ -65,7 +65,7 @@
             }
         },
         "Manor" : {
-            "maxMatchTime" : 400,
+            "maxMatchTime" : 300,
             "minMatchTime" : 180,
             "minGenerators" : 1,
             "maxGenerators" : 3,
@@ -97,7 +97,7 @@
             }
         },
         "Warehouse" : {
-            "maxMatchTime" : 400,
+            "maxMatchTime" : 320,
             "minMatchTime" : 170,
             "minGenerators" : 1,
             "maxGenerators" : 3,
@@ -147,7 +147,7 @@
             "HiderWin": 600,
             "Injure": 30,
             "Kill": 400,
-            "HunterWin": 900,
+            "HunterWin": 700,
             "CoinPickUp": 2
         },
         "CoinRates": {
