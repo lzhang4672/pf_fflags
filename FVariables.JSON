@@ -1,8 +1,8 @@
 {
     "MapProperties" : {
         "Farm" : {
-            "maxMatchTime" : 310,
-            "minMatchTime" : 200,
+            "maxMatchTime" : 195,
+            "minMatchTime" : 126,
             "minGenerators" : 1,
             "maxGenerators" : 3,
             "minExitGates" : 2,
@@ -12,8 +12,8 @@
             "maxExitGateOpenTime" : 25,
             "maxStartCountdown" : 15,
             "minStartCountdown" : 10,
-            "minRepairTime" : 17,
-            "maxRepairTime" : 28,
+            "minRepairTime" : 15,
+            "maxRepairTime" : 25,
             "baseWalkSpeed" : 15,
             "baseSprintSpeed" : 24,
             "minSprintTime" : 3,
@@ -23,8 +23,8 @@
             "passiveHealRate" : 10,
             "baseJumpPower" : 40,
             "maxHunterWalkSpeedIncrease" : 5,
-            "minRepairBonusTime" : 25,
-            "maxRepairBonusTime" : 30,
+            "minRepairBonusTime" : 18,
+            "maxRepairBonusTime" : 24,
             "generatorUIGameRate" : 7,
             "playerMatchProperties" : {
                 "ReviveTime" : 0.2,
@@ -33,8 +33,8 @@
             }
         },
         "Forest" : {
-            "maxMatchTime" : 310,
-            "minMatchTime" : 200,
+            "maxMatchTime" : 201,
+            "minMatchTime" : 130,
             "minGenerators" : 1,
             "maxGenerators" : 3,
             "minExitGates" : 2,
@@ -42,10 +42,10 @@
             "extraGenerators" : 2,
             "minExitGateOpenTime" : 15,
             "maxExitGateOpenTime" : 25,
-            "maxStartCountdown" : 15,
-            "minStartCountdown" : 10,
-            "minRepairTime" : 17,
-            "maxRepairTime" : 30,
+            "maxStartCountdown" : 12,
+            "minStartCountdown" : 8,
+            "minRepairTime" : 15,
+            "maxRepairTime" : 23,
             "baseWalkSpeed" : 15,
             "baseSprintSpeed" : 24,
             "minSprintTime" : 2.5,
@@ -55,8 +55,8 @@
             "passiveHealRate" : 12,
             "baseJumpPower" : 40,
             "maxHunterWalkSpeedIncrease" : 6,
-            "minRepairBonusTime" : 28,
-            "maxRepairBonusTime" : 32,
+            "minRepairBonusTime" : 20,
+            "maxRepairBonusTime" : 25,
             "generatorUIGameRate" : 8,
             "playerMatchProperties" : {
                 "ReviveTime" : 0.2,
@@ -65,8 +65,8 @@
             }
         },
         "Manor" : {
-            "maxMatchTime" : 300,
-            "minMatchTime" : 180,
+            "maxMatchTime" : 200,
+            "minMatchTime" : 120,
             "minGenerators" : 1,
             "maxGenerators" : 3,
             "minExitGates" : 2,
@@ -77,7 +77,7 @@
             "maxStartCountdown" : 12,
             "minStartCountdown" : 10,
             "minRepairTime" : 15,
-            "maxRepairTime" : 27,
+            "maxRepairTime" : 24,
             "baseWalkSpeed" : 16,
             "baseSprintSpeed" : 26,
             "minSprintTime" : 1.8,
@@ -87,8 +87,8 @@
             "passiveHealRate" : 10,
             "baseJumpPower" : 40,
             "maxHunterWalkSpeedIncrease" : 4,
-            "minRepairBonusTime" : 22,
-            "maxRepairBonusTime" : 28,
+            "minRepairBonusTime" : 19,
+            "maxRepairBonusTime" : 23,
             "generatorUIGameRate" : 6,
             "playerMatchProperties" : {
                 "ReviveTime" : 0.2,
@@ -97,8 +97,8 @@
             }
         },
         "Warehouse" : {
-            "maxMatchTime" : 320,
-            "minMatchTime" : 170,
+            "maxMatchTime" : 220,
+            "minMatchTime" : 160,
             "minGenerators" : 1,
             "maxGenerators" : 3,
             "minExitGates" : 2,
@@ -119,8 +119,8 @@
             "passiveHealRate" : 10,
             "baseJumpPower" : 40,
             "maxHunterWalkSpeedIncrease" : 3.5,
-            "minRepairBonusTime" : 27,
-            "maxRepairBonusTime" : 35,
+            "minRepairBonusTime" : 24,
+            "maxRepairBonusTime" : 30,
             "generatorUIGameRate" : 6,
             "playerMatchProperties" : {
                 "ReviveTime" : 0.2,
