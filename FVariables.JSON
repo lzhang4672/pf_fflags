@@ -158,6 +158,7 @@
             "Win": 75,
             "Injure": 5,
             "CoinPickUp": 1 
-        }
+        },
+        "DailyRewards": [10, 20, 30, 40, 50, 60, 70]
     }
 }

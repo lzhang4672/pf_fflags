@@ -1,4 +1,5 @@
 {
     "DFFlags": true,
-    "MergeFromDataStoreV2": true
+    "MergeFromDataStoreV2": true,
+    "LobbyMinigame": true
 }
