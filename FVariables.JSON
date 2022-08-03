@@ -159,6 +159,10 @@
             "Injure": 5,
             "CoinPickUp": 1 
         },
-        "DailyRewards": [10, 20, 30, 40, 50, 60, 70]
+        "DailyRewards": [10, 20, 30, 40, 50, 60, 70],
+        "LobbyMinigame": {
+            "CoinsAwarded": 15,
+            "TotalCount": 10
+        }
     }
 }
