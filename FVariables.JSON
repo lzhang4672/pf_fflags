@@ -1,7 +1,7 @@
 {
     "MapProperties" : {
         "Farm" : {
-            "maxMatchTime" : 195,
+            "maxMatchTime" : 250,
             "minMatchTime" : 126,
             "minGenerators" : 1,
             "maxGenerators" : 3,
@@ -33,7 +33,7 @@
             }
         },
         "Forest" : {
-            "maxMatchTime" : 201,
+            "maxMatchTime" : 250,
             "minMatchTime" : 130,
             "minGenerators" : 1,
             "maxGenerators" : 3,
@@ -65,7 +65,7 @@
             }
         },
         "Manor" : {
-            "maxMatchTime" : 200,
+            "maxMatchTime" : 240,
             "minMatchTime" : 120,
             "minGenerators" : 1,
             "maxGenerators" : 3,
@@ -97,7 +97,7 @@
             }
         },
         "Warehouse" : {
-            "maxMatchTime" : 220,
+            "maxMatchTime" : 260,
             "minMatchTime" : 160,
             "minGenerators" : 1,
             "maxGenerators" : 3,
