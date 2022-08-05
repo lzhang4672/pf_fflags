@@ -28,7 +28,7 @@
             "generatorUIGameRate" : 7,
             "playerMatchProperties" : {
                 "ReviveTime" : 0.2,
-                "InjuredTime" : 16,
+                "InjuredTime" : 23,
                 "ReviveShieldDuration" : 5
             }
         },
@@ -60,7 +60,7 @@
             "generatorUIGameRate" : 8,
             "playerMatchProperties" : {
                 "ReviveTime" : 0.2,
-                "InjuredTime" : 15,
+                "InjuredTime" : 22,
                 "ReviveShieldDuration" : 5
             }
         },
@@ -92,7 +92,7 @@
             "generatorUIGameRate" : 6,
             "playerMatchProperties" : {
                 "ReviveTime" : 0.2,
-                "InjuredTime" : 12,
+                "InjuredTime" : 19,
                 "ReviveShieldDuration" : 5
             }
         },
@@ -124,7 +124,7 @@
             "generatorUIGameRate" : 6,
             "playerMatchProperties" : {
                 "ReviveTime" : 0.2,
-                "InjuredTime" : 15,
+                "InjuredTime" : 22,
                 "ReviveShieldDuration" : 5
             }
         }
