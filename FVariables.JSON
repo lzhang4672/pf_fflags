@@ -2,7 +2,7 @@
     "MapProperties" : {
         "Farm" : {
             "maxMatchTime" : 310,
-            "minMatchTime" : 145,
+            "minMatchTime" : 160,
             "minGenerators" : 1,
             "maxGenerators" : 3,
             "minExitGates" : 2,
@@ -34,7 +34,7 @@
         },
         "Forest" : {
             "maxMatchTime" : 300,
-            "minMatchTime" : 150,
+            "minMatchTime" : 165,
             "minGenerators" : 1,
             "maxGenerators" : 3,
             "minExitGates" : 2,
@@ -66,7 +66,7 @@
         },
         "Manor" : {
             "maxMatchTime" : 290,
-            "minMatchTime" : 140,
+            "minMatchTime" : 155,
             "minGenerators" : 1,
             "maxGenerators" : 3,
             "minExitGates" : 2,
