@@ -40,7 +40,8 @@
                 "Traps" : {
                     "Amount" : 8,
                     "Cooldown" : 8,
-                    "Damage" : 30
+                    "Damage" : 30,
+                    "SlowTime": 4
                 }
             }
         },
@@ -84,7 +85,8 @@
                 "Traps" : {
                     "Amount" : 8,
                     "Cooldown" : 8,
-                    "Damage" : 30
+                    "Damage" : 30,
+                    "SlowTime": 4
                 }
             }
         },
@@ -128,7 +130,8 @@
                 "Traps" : {
                     "Amount" : 6,
                     "Cooldown" : 5,
-                    "Damage" : 40
+                    "Damage" : 40,
+                    "SlowTime": 3
                 }
             }
         },
@@ -172,7 +175,8 @@
                 "Traps" : {
                     "Amount" : 6,
                     "Cooldown" : 5,
-                    "Damage" : 40
+                    "Damage" : 40,
+                    "SlowTime": 3
                 }
             }
         }
