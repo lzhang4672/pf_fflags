@@ -38,10 +38,10 @@
                     "Time" : 5
                 },
                 "Traps" : {
-                    "Amount" : 8,
+                    "Amount" : 10,
                     "Cooldown" : 8,
-                    "Damage" : 30,
-                    "SlowTime": 4
+                    "Damage" : 20,
+                    "SlowTime": 3
                 }
             }
         },
@@ -83,10 +83,10 @@
                     "Time" : 4
                 },
                 "Traps" : {
-                    "Amount" : 8,
+                    "Amount" : 10,
                     "Cooldown" : 8,
-                    "Damage" : 30,
-                    "SlowTime": 4
+                    "Damage" : 20,
+                    "SlowTime": 3
                 }
             }
         },
@@ -128,10 +128,10 @@
                     "Time" : 5
                 },
                 "Traps" : {
-                    "Amount" : 6,
+                    "Amount" : 5,
                     "Cooldown" : 5,
-                    "Damage" : 40,
-                    "SlowTime": 3
+                    "Damage" : 15,
+                    "SlowTime": 2
                 }
             }
         },
@@ -173,9 +173,9 @@
                     "Time" : 5
                 },
                 "Traps" : {
-                    "Amount" : 6,
+                    "Amount" : 8,
                     "Cooldown" : 5,
-                    "Damage" : 40,
+                    "Damage" : 20,
                     "SlowTime": 3
                 }
             }
