@@ -25,7 +25,7 @@
             "maxHunterWalkSpeedIncrease" : 5,
             "minRepairBonusTime" : 18,
             "maxRepairBonusTime" : 24,
-            "generatorUIGameRate" : 7,
+            "generatorUIGameRate" : 9,
             "playerMatchProperties" : {
                 "ReviveTime" : 0.2,
                 "InjuredTime" : 19,
@@ -70,7 +70,7 @@
             "maxHunterWalkSpeedIncrease" : 6,
             "minRepairBonusTime" : 20,
             "maxRepairBonusTime" : 25,
-            "generatorUIGameRate" : 8,
+            "generatorUIGameRate" : 9,
             "playerMatchProperties" : {
                 "ReviveTime" : 0.2,
                 "InjuredTime" : 18,
@@ -115,7 +115,7 @@
             "maxHunterWalkSpeedIncrease" : 4,
             "minRepairBonusTime" : 19,
             "maxRepairBonusTime" : 23,
-            "generatorUIGameRate" : 6,
+            "generatorUIGameRate" : 8,
             "playerMatchProperties" : {
                 "ReviveTime" : 0.2,
                 "InjuredTime" : 17,
@@ -189,7 +189,8 @@
         "InjuredDecreaseRate": 30
     },
     "Messaging": {
-        "LoadingMessage": "[🚨] UPDATE AT 150 LIKES!"
+        "Version": "Purplat Games [V1.0.0-alpha]",
+        "LoadingMessage": "[🚨] UPDATE AT 100 LIKES!"
     },
     "PlayerProgression": {
         "XPRates": {
