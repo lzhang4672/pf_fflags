@@ -1,7 +1,7 @@
 {
     "MapProperties" : {
         "Farm" : {
-            "maxMatchTime" : 310,
+            "maxMatchTime" : 350,
             "minMatchTime" : 160,
             "minGenerators" : 1,
             "maxGenerators" : 3,
@@ -46,7 +46,7 @@
             }
         },
         "Forest" : {
-            "maxMatchTime" : 300,
+            "maxMatchTime" : 330,
             "minMatchTime" : 165,
             "minGenerators" : 1,
             "maxGenerators" : 3,
@@ -91,7 +91,7 @@
             }
         },
         "Manor" : {
-            "maxMatchTime" : 290,
+            "maxMatchTime" : 320,
             "minMatchTime" : 155,
             "minGenerators" : 1,
             "maxGenerators" : 3,
@@ -136,7 +136,7 @@
             }
         },
         "Warehouse" : {
-            "maxMatchTime" : 325,
+            "maxMatchTime" : 335,
             "minMatchTime" : 160,
             "minGenerators" : 1,
             "maxGenerators" : 3,
@@ -157,7 +157,7 @@
             "passiveHealAmount" : 5,
             "passiveHealRate" : 10,
             "baseJumpPower" : 40,
-            "maxHunterWalkSpeedIncrease" : 3.5,
+            "maxHunterWalkSpeedIncrease" : 4,
             "minRepairBonusTime" : 24,
             "maxRepairBonusTime" : 30,
             "generatorUIGameRate" : 6,
